@@ -1,0 +1,10 @@
+.test_image_and_result{
+    background-color: aquamarine;
+    width: 99%;
+    border-radius: 50px;
+}
+
+img{
+    border: 10px grey ridge;
+    border-radius: 20px;
+}
